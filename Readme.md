@@ -45,6 +45,9 @@ By combining these models, the project assesses whether covariance insights can 
   - Users can switch between `StockMixer_new1` and `StockMixer_new2` models to compare their performance.
   - **Execution**:
     Modify configurations as needed and execute corresponding scripts in the folder.
+    ```
+    python Combined_model/StockMixer_cov_loaded/src/train_with_covariance.py  
+    ```
 
 - ### **data/**
 
